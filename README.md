@@ -23,3 +23,7 @@ sudo pacman -S ffmpeg
 #openSUSE
 sudo zypper install ffmpeg
 ```
+The programm uses pygame opencv-python Pillow python-docx. Install it before using, if it wasn't installed.
+```
+pip install pygame opencv-python Pillow python-docx
+```
