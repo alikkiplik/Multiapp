@@ -1,4 +1,4 @@
-# Multiapp
+# Multopia
 With this utility, you can edit text, draw, watch videos, and listen to music. To watch videos, install ffmpeg. 
 Windows
 ```
@@ -23,7 +23,7 @@ sudo pacman -S ffmpeg
 #openSUSE
 sudo zypper install ffmpeg
 ```
-The programm uses pygame opencv-python Pillow python-docx. Install it before using, if it wasn't installed.
+The programm uses python libraries, like: pygame, opencv-python, Pillow, python-docx. Install it before using, if it wasn't installed.
 ```
 pip install pygame opencv-python Pillow python-docx
 ```
